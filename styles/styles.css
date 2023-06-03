@@ -3,11 +3,6 @@ body {
   background-color: #e5e5e5;
 }
 
-.container {
-  break-inside: avoid;
-}
-
-
 /* main style */
 .main {
   display: flex;
@@ -183,7 +178,6 @@ body {
 /* sidebar style */
 
 .sidebar {
-  break-inside: avoid;
   background-color: #1e2939;
   padding-top: 40px;
   width: 370px;
